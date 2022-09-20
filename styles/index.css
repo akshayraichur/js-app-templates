@@ -19,7 +19,16 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-.container {
+.container,
+footer {
   text-align: center;
   margin: 2rem;
+}
+
+a {
+  color: var(--text-color);
+}
+
+a:checked {
+  color: var(--text-color);
 }
