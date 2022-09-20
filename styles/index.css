@@ -16,7 +16,7 @@ html,
 body {
   background-color: var(--primary-color);
   color: var(--text-color);
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .container,
